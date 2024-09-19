@@ -1,0 +1,12 @@
+Does the priority queue have to be generic? use Es
+What goes in the preprocess method?
+How to test compression?
+How do you actually run the program?
+Why do you actually need the tree? seems like just using nodes gets the job done well enough. 
+
+TODO
+
+return number of bits saved, number of bits written
+be able to read STF header 
+comment everything 
+do experiments/write-up
